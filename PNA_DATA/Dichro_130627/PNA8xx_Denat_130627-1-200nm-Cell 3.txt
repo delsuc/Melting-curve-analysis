@@ -1,0 +1,92 @@
+TITLE	PNA8xx_Denat_130627
+DATA TYPE	
+ORIGIN	JASCO
+OWNER	IREBS
+DATE	13/06/27
+TIME	15:41:47
+SPECTROMETER/DATA SYSTEM	
+LOCALE	1036
+XUNITS	Temperature[C]
+YUNITS	CD [mdeg]
+Y2UNITS	HT [V]
+Y3UNITS	ABSORBANCE
+FIRSTX	   35,0000
+LASTX	   95,0200
+NPOINTS	      31
+XYDATA
+35,0000	-7,17768	330,632	1,56663
+36,9900	-6,81769	332,793	1,58802
+39,0100	-6,44084	334,615	1,60596
+41,0000	-6,673	336,941	1,62875
+43,0000	-6,68686	339,866	1,65723
+45,0000	-6,51587	342,404	1,68179
+47,0000	-6,58076	345,191	1,70857
+49,0000	-6,5391	347,798	1,73345
+51,0100	-6,71849	350,179	1,75604
+53,0200	-6,24397	354,046	1,79244
+55,0000	-5,90037	357,214	1,822
+57,0000	-5,91989	360,032	1,8481
+59,0100	-5,57203	363,612	1,88098
+61,0000	-5,96145	367,012	1,91192
+63,0000	-5,25973	371,247	1,95008
+64,9900	-5,18104	374,916	1,98281
+67,0000	-5,32468	379,19	2,02052
+69,0200	-4,56943	383,218	2,05567
+71,0100	-4,26121	387,839	2,09552
+73,0200	-3,96637	392,546	2,13559
+74,9900	-4,06287	397,316	2,17567
+77,0100	-3,56335	402,518	2,21876
+79,0000	-3,02435	407,557	2,2599
+80,9900	-3,25117	412,867	2,3026
+83,0100	-3,83134	417,679	2,34071
+85,0100	-3,36376	422,454	2,37799
+87,0200	-3,18326	427,099	2,41374
+88,9900	-2,64672	432,634	2,45568
+91,0100	-2,69221	437,497	2,49193
+93,0100	-3,34302	442,488	2,52682
+95,0200	-2,72959	448,704	2,56975
+
+##### Extended Information
+[Comments]
+Sample name	PNA8xx_Denat_130627
+Comment	C1: Ref; C2: PNA869; C3: PNA871
+User	YN
+Division	IREBS
+Company	IREBS
+
+[Detailed Information]
+Creation date	27/06/2013 15:41
+
+Data array type	Non-linear data array * 3
+Horizontal axis	Temperature [C]
+Vertical axis(1)	CD [mdeg]
+Vertical axis(2)	HT [V]
+Vertical axis(3)	Abs
+Start	35 C
+End	95,02 C
+Data points	31      
+
+[Measurement Information]
+Instrument Name	CD
+Model Name	J-815
+Serial No.	B039561168
+
+Accessory	MPTC-490S/15
+Accessory S/N	B002661326
+  Cell	1
+  Control Sonsor	Holder
+  Monitor Sensor	Holder
+  Start Mode	Keep target temperature +/-0.10 deg C while 5 seconds
+  Cell Length	10 mm
+
+Photometric Mode	CD, HT, Abs
+Sensitivity	High
+D.I.T.	4 sec
+Bandwidth	2.00 nm
+Monitor Wavelength	200 nm
+Baseline Correction	None
+Shutter Control	Auto
+PMT Voltage	Auto
+Solvent	PBS with 1mm cuv.
+Concentration	3.3e-005 mol/L
+

@@ -1,0 +1,92 @@
+TITLE	PNA8xx_Denat_130711
+DATA TYPE	
+ORIGIN	JASCO
+OWNER	IREBS
+DATE	13/07/11
+TIME	14:59:24
+SPECTROMETER/DATA SYSTEM	
+LOCALE	1036
+XUNITS	Temperature[C]
+YUNITS	CD [mdeg]
+Y2UNITS	HT [V]
+Y3UNITS	ABSORBANCE
+FIRSTX	   35,0000
+LASTX	   95,1200
+NPOINTS	      31
+XYDATA
+35,0000	2,55054	169,444	-0,396316
+37,1100	2,49941	169,946	-0,389795
+39,1100	2,50359	169,826	-0,391359
+41,1100	2,48654	169,894	-0,39048
+43,1000	2,42564	170,056	-0,388373
+45,1100	2,46697	170,032	-0,388683
+47,1100	2,43857	170,19	-0,386635
+49,1000	2,49289	170,467	-0,383049
+51,1000	2,44037	170,536	-0,382146
+53,1000	2,45685	170,406	-0,383838
+55,1000	2,443	170,848	-0,378097
+57,1000	2,40466	170,731	-0,37962
+59,1000	2,47093	170,931	-0,377029
+61,1000	2,47265	171,141	-0,374301
+63,1000	2,4825	171,244	-0,372966
+65,1000	2,46874	171,415	-0,370744
+67,1000	2,47848	171,34	-0,371724
+69,1000	2,44775	171,245	-0,37295
+71,0900	2,43077	171,388	-0,371103
+73,1000	2,49949	171,484	-0,369858
+75,1000	2,4679	171,518	-0,369413
+77,1000	2,45304	171,885	-0,364656
+79,0900	2,45902	171,618	-0,368118
+81,1200	2,52184	171,432	-0,370525
+83,1200	2,50265	171,431	-0,370545
+85,1200	2,46043	172,013	-0,36299
+87,1200	2,48289	171,479	-0,369912
+89,1100	2,45204	171,451	-0,370276
+91,1100	2,44105	171,395	-0,371009
+93,1200	2,46524	171,277	-0,372536
+95,1200	2,47593	171,38	-0,371204
+
+##### Extended Information
+[Comments]
+Sample name	PNA8xx_Denat_130711
+Comment	C1: Ref; C2: 871; C3: 865; C4: 866; C5: 865/866; C6: D2T
+User	YN
+Division	IREBS
+Company	IREBS
+
+[Detailed Information]
+Creation date	11/07/2013 14:59
+
+Data array type	Non-linear data array * 3
+Horizontal axis	Temperature [C]
+Vertical axis(1)	CD [mdeg]
+Vertical axis(2)	HT [V]
+Vertical axis(3)	Abs
+Start	35 C
+End	95,12 C
+Data points	31      
+
+[Measurement Information]
+Instrument Name	CD
+Model Name	J-815
+Serial No.	B039561168
+
+Accessory	MPTC-490S/15
+Accessory S/N	B002661326
+  Cell	1
+  Control Sonsor	Holder
+  Monitor Sensor	Holder
+  Start Mode	Keep target temperature +/-0.10 deg C while 5 seconds
+  Cell Length	10 mm
+
+Photometric Mode	CD, HT, Abs
+Sensitivity	Standard
+D.I.T.	4 sec
+Bandwidth	4.00 nm
+Monitor Wavelength	280 nm
+Baseline Correction	None
+Shutter Control	Auto
+PMT Voltage	Auto
+Solvent	PBS with 1mm cuv.
+Concentration	5e-005 mol/L
+
