@@ -6,7 +6,7 @@
 This file present the program used to determine the melting temperatures $T_m$ of PNA molecules,
 from absorbance and CD data extracted acquired on Jasco spectrometer.
 
-
+Code associated to the manuscript "Duplex formation and secondary structure of γ-PNA observed by NMR and CD" Viéville, Barluenga, Winssinger, & Delsuc, (2016) *Biophys. Chem.* , 210, 9–13.. http://doi.org/10.1016/j.bpc.2015.09.002 
 
 This Program are provided under the Licence [CeCILL 2.1](http://www.cecill.info/licences/Licence_CeCILL_V2.1-en.html)
 
