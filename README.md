@@ -1,4 +1,4 @@
-#*Supplementary Material* <br/> Duplex formation and secondary structure of $\gamma$-PNA observed by NMR and CD
+#*Supplementary Material* <br/> Duplex formation and secondary structure of γ-PNA observed by NMR and CD
 
 
 
